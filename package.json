@@ -1,0 +1,15 @@
+{
+  "name": "one2pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@groupdocs/groupdocs.conversion": "^24.7.0",
+    "zip-local": "^0.3.5"
+  }
+}
